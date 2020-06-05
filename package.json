@@ -1,0 +1,25 @@
+{
+  "name": "fed-e-task-01-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "loadsh": "^0.0.4",
+    "lodash": "^4.17.15"
+  },
+  "description": "夏剑峰-第一阶段-模块二作业",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreamXJF/fed-e-task-01-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/DreamXJF/fed-e-task-01-02/issues"
+  },
+  "homepage": "https://github.com/DreamXJF/fed-e-task-01-02#readme"
+}
