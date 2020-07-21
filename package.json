@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "loadsh": "^0.0.4",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "description": "夏剑峰-第一阶段-模块二作业",
   "devDependencies": {},
